@@ -5,6 +5,7 @@
 # Treat
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 
 手动阀发
@@ -16,3 +17,11 @@
 
 #sadafsf
 >>>>>>> feature_test2
+=======
+#daadad
+
+
+
+dsssfds
+dfsfsds佛挡杀佛三
+>>>>>>> master
